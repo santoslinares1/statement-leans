@@ -1,0 +1,787 @@
+{
+  "cik": 222222,
+  "entityName": "StressCo Inc.",
+  "facts": {
+    "us-gaap": {
+      "RevenueFromContractWithCustomerExcludingAssessedTax": {
+        "label": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "description": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 1000,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 1050,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 1080,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "CostOfGoodsAndServicesSold": {
+        "label": "CostOfGoodsAndServicesSold",
+        "description": "CostOfGoodsAndServicesSold",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 600,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 640,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 680,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "GrossProfit": {
+        "label": "GrossProfit",
+        "description": "GrossProfit",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 400,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 410,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 400,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "OperatingIncomeLoss": {
+        "label": "OperatingIncomeLoss",
+        "description": "OperatingIncomeLoss",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 180,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 160,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 140,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "NetIncomeLoss": {
+        "label": "NetIncomeLoss",
+        "description": "NetIncomeLoss",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 140,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 150,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 160,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "InterestExpense": {
+        "label": "InterestExpense",
+        "description": "InterestExpense",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 20,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 28,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 40,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "DepreciationDepletionAndAmortization": {
+        "label": "DepreciationDepletionAndAmortization",
+        "description": "DepreciationDepletionAndAmortization",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 25,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 25,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 24,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "Assets": {
+        "label": "Assets",
+        "description": "Assets",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 900,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 920,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 940,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "AssetsCurrent": {
+        "label": "AssetsCurrent",
+        "description": "AssetsCurrent",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 500,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 480,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 450,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "Liabilities": {
+        "label": "Liabilities",
+        "description": "Liabilities",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 500,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 560,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 640,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "LiabilitiesCurrent": {
+        "label": "LiabilitiesCurrent",
+        "description": "LiabilitiesCurrent",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 250,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 300,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 380,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "CashAndCashEquivalentsAtCarryingValue": {
+        "label": "CashAndCashEquivalentsAtCarryingValue",
+        "description": "CashAndCashEquivalentsAtCarryingValue",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 80,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 60,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 40,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "InventoryNet": {
+        "label": "InventoryNet",
+        "description": "InventoryNet",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 100,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 150,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 200,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "AccountsReceivableNetCurrent": {
+        "label": "AccountsReceivableNetCurrent",
+        "description": "AccountsReceivableNetCurrent",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 120,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 180,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 250,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "StockholdersEquity": {
+        "label": "StockholdersEquity",
+        "description": "StockholdersEquity",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 400,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 360,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 300,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "LongTermDebtNoncurrent": {
+        "label": "LongTermDebtNoncurrent",
+        "description": "LongTermDebtNoncurrent",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 250,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 290,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 340,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "ShortTermBorrowings": {
+        "label": "ShortTermBorrowings",
+        "description": "ShortTermBorrowings",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 50,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 60,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 80,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "NetCashProvidedByUsedInOperatingActivities": {
+        "label": "NetCashProvidedByUsedInOperatingActivities",
+        "description": "NetCashProvidedByUsedInOperatingActivities",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 150,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 80,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 50,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      },
+      "PaymentsToAcquirePropertyPlantAndEquipment": {
+        "label": "PaymentsToAcquirePropertyPlantAndEquipment",
+        "description": "PaymentsToAcquirePropertyPlantAndEquipment",
+        "units": {
+          "USD": [
+            {
+              "start": "2020-10-01",
+              "end": "2021-09-30",
+              "val": 40,
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2021-11-15",
+              "accn": "00012021",
+              "frame": "CY2021"
+            },
+            {
+              "start": "2021-10-01",
+              "end": "2022-09-30",
+              "val": 45,
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-11-15",
+              "accn": "00012022",
+              "frame": "CY2022"
+            },
+            {
+              "start": "2022-10-01",
+              "end": "2023-09-30",
+              "val": 50,
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-11-15",
+              "accn": "00012023",
+              "frame": "CY2023"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
